@@ -15,7 +15,7 @@ public class LoginPage {
 	
 	By username= By.id("user_login");
 	By password= By.name("pwd");
-	By loginbtn= By.name("wp-submit");
+	By loginbtn= By.name("wp-submitt");
 	
 	
 	public LoginPage(WebDriver driver)

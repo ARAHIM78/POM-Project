@@ -21,7 +21,7 @@ public class Tests {
 			
 			GMailLogin login= new GMailLogin(driver);
 			
-			login.setEmailID("gazienam");
+			login.setEmailID("gazienamm");
 			login.clickNextbtn();
 			Thread.sleep(1000);
 			login.setPassword("Dhaka1996");

@@ -1,0 +1,15 @@
+ Volume in drive C is Rahim
+ Volume Serial Number is F4C7-5A1F
+
+ Directory of C:\Users\SR\workspace\POMPractice
+
+04/04/2017  21:19    <DIR>          .
+04/04/2017  21:19    <DIR>          ..
+31/03/2017  12:28               434 .classpath
+31/03/2017  12:28               387 .project
+31/03/2017  12:28    <DIR>          .settings
+31/03/2017  13:28    <DIR>          bin
+04/04/2017  21:19                 0 dirPOMPractice.txt
+31/03/2017  13:28    <DIR>          src
+               3 File(s)            821 bytes
+               5 Dir(s)  91,271,135,232 bytes free
